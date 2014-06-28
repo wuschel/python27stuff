@@ -1,0 +1,4 @@
+create C:\Python27\Scripts
+Add C:\Python27\Scripts and C:\Python27 to PATH
+run py27_bootstrap_setuptools
+run easy_install pip
